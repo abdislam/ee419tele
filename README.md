@@ -8,7 +8,6 @@ This shows you how to make Matlab code that works with [Octave](https://www.gnu.
 The [example notebook](index.ipynb) is taken from the [octave_kernel](https://github.com/Calysto/octave_kernel) repository.
 
 ## Contents
-[index](index.ipynb)
 
 [introduction to Octave / Matlab](matlab_basics.ipynb)
 
