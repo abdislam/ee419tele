@@ -11,4 +11,6 @@ The [example notebook](index.ipynb) is taken from the [octave_kernel](https://gi
 
 [introduction to Octave / Matlab](matlab_basics.ipynb)
 
+[Signal Correlation](Signal_Correlation.ipynb)
+
 [Fourier Series](Fourier_series.ipynb)
